@@ -5,18 +5,7 @@ description: A portfolio for my interests and endeavours, because showing your w
 org_count: 0
 permalink: /
 ---
-  <div class="container-lg">
-    <div class="text-center shiny-text">
-      <ul>
-        <li class="text-center d-block d-sm-inline-block px-1 px-md-3"><a href="{{ " /community/" | relative_url}}"
-            class="shiny-text">About Me</a></li>
-        <li class="text-center d-block d-sm-inline-block px-1 px-md-3"><a href="{{ " /accessibility" | relative_url}}"
-            class="shiny-text">Projects</a></li>
-        <li class="text-center d-block d-sm-inline-block px-1 px-md-3"><a href="{{ " /#contact-a-human" |
-            relative_url}}" class="shiny-text">Contact</a></li>
-      </ul>
-    </div>
-  </div>
+
   <div class="container-lg p-responsive titlepadding my-xl-4 text-center">
     <h1 class="shiny-text myboldclass alt-h1 mb-2">Benjamin Miles Bullough</h1>
     <p class="f2 mylightclass text-white">Pure mathematics, sullied with some interesting real-world projects.</p>
@@ -61,54 +50,60 @@ permalink: /
 <div class="picturemidway pt-4 pb-5">
 </div>
 
-<section class="bg-gray-light">
+<section class="bg-gray-light" id="AboutMe">
   <div class="container-lg p-responsive py-5 py-md-6 ">
     <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="join-the-revolution">Work</h2>
     <p class="text-gray text-center">I currently work as a quantitative analyst - <em>quant</em> for short - on structured interest rate derivatives for an investment bank.
       For example, I have worked on the LIBOR transition, addressing the modelling implications for interest rate options of an industry shift from LIBOR term rates to compounded overnight Risk-Free Reference (RFR) rates.
       There are many fascinating problems to solve, and tools to develop in mathematical finance, using stochastic calculus and numerical methods, and this is what I currently get to spend the majority of my time doing.
     </a></p>
+    <p class="text-center extraroomabove">
+      <a href="https://www.linkedin.com/in/benjamin-bullough-9b8b39107/" target="_blank" class="btn btn-outline">Find me on LinkedIn &rarr;</a>
+    </p>
 </section>
 
 <section class="">
   <div class="container-lg p-responsive py-5 py-md-6 ">
     <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="join-the-revolution">Education</h2>
-    <p class="text-gray text-center"> I hold an MSc in Pure Mathematics from Imperial College London (ICL), where I took courses in commutative and homologiclal algebra, elliptic curves and Lie algebras, to name a few. 
+    <p class="text-gray text-center"> I hold an MSc in Pure Mathematics from <a href="https://www.imperial.ac.uk/mathematics" target="_blank">Imperial College London</a> (ICL), where I took courses in commutative and homologiclal algebra, elliptic curves and Lie algebras, to name a few. 
       My masters' dissertation starts with the Grothendieck group, constructed from the abelian monoid of quadratic forms, and builds towards a proof of Pfister's Local-Global Principle using Lewis polynomials. 
       It is entitled "Pfister's local-global principle and the <em>u</em>-invariant of formally real fields" and can be found below.
     </p>
-    <p class="text-gray text-center"> Between 2015 and 2018 I studied Mathematics and Economics at the London School of Economics and Political Science (LSE), taking courses in pure mathematics, econometric theory, probability theory and financial mathematics.
+    <p class="text-gray text-center"> Between 2015 and 2018 I studied Mathematics and Economics at the <a href="https://www.lse.ac.uk" target="_blank">London School of Economics and Political Science</a> (LSE), taking courses in pure mathematics, econometric theory, probability theory and financial mathematics.
     </p>
     <p class="text-center extraroomabove">
-      <a href="assets/docs/Dissertation.pdf" target="_blank" class="btn btn-outline">Check out my dissertation  &rarr;</a>
+      <a href="https://github.com/Ben-Bullough/dissertation" target="_blank" class="btn btn-outline">Check out my dissertation  &rarr;</a>
     </p>
 </section>
 
-<section class="bg-gray-light">
+<section class="bg-gray-light" id="Projects">
   <div class="container-lg p-responsive py-5 py-md-6 ">
 
     <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="more-than-just-code">Projects</h2>
     <p class="alt-lead text-gray text-center col-md-10 mx-auto">A snapshot of some personal projects, that can be found on my <a href="https://Ben-Bullough.github.io">GitHub</a> page.</p>
 
-    <div class="my-4 my-lg-6 clearfix gutter-spacious">
-      <div class="col-md-4 float-left animate-out mb-4">
-        <h3 class="alt-h3 mb-3">Pure Mathematics</h3>
-        <p><a href="https://github.com/showcases/government" target="_blank">
-          <img src="assets/img/fractal.jpg" class="img-border" alt="Pull request launching gov.uk"/></a>
+    <div class="my-4 my-lg-6 clearfix gutter-spacious row">
+      <div class="animate-out project-border col">
+        <a href="https://github.com/Ben-Bullough" target="_blank"></a>
+        <h3 class="alt-h3 mb-3 text-center">Pure Mathematics</h3>
+        <p>
+          <img src="assets/img/fractal.jpg" class="img-border" /></a>
         </p>
         <small>I try to put together LaTeX notes, detailing the theory needed to explore topics in pure mathematics. These will be available in GitHub as and when.</small>
       </div>
-      <div class="col-md-4 float-left animate-out mb-4">
-        <h3 class="alt-h3 mb-3">SABR and Implied Volatility</h3>
-        <p><a href="" target="_blank">
+      <div class="animate-out project-border col">
+        <a href="https://github.com/Ben-Bullough" target="_blank"></a>
+        <h3 class="alt-h3 mb-3 text-center">SABR and Implied Volatility</h3>
+        <p>
           <img src="assets/img/SABR.png" class="img-border" alt="Volatility surface obtained using the SABR model"/></a>
         </p>
         <small>SABR is a stochastic volatility model, used in particular to capture smile when determining a full range of option prices, based on a finite number of liquid observations. I look to visualise the dynamics of this model using JavaScript and React.</small>
       </div>
-      <div class="col-md-4 float-left animate-out mb-4">
-        <h3 class="alt-h3 mb-3">The West Highland Way</h3>
-        <p><a href="https://github.com/showcases/policies" target="_blank">
-          <img src="assets/img/scotland.jpeg" class="img-border" alt="Project Open Data"/></a>
+      <div class="animate-out project-border col">
+        <a href="https://github.com/Ben-Bullough" target="_blank"></a>
+        <h3 class="alt-h3 mb-3 text-center">The West Highland Way</h3>
+        <p>
+          <img src="assets/img/scotland.jpeg" class="img-border"/></a>
         </p>
         <small>I thought it would be helpful to recount my experiences on the West Highland Way, as the trek can be undertaken in 3, 4 or 7 days depending which sections hikers choose!</small>
       </div>
@@ -121,13 +116,14 @@ permalink: /
   </div>
 </section>
 
-<section id="contact-a-human" class="">
-  <div class="container-lg p-responsive py-5 py-md-6 text-center">
-    <span class="text-center">
-      {% octicon person height:42 class:"d-block mx-auto mb-4 text-center fill-gray" aria-label:person %}
-    </span>
-    <h3 class="alt-h2 mb-4">Talk to a human</h3>
-    <p>Email <a href="mailto:government@github.com">government@github.com</a> to talk to GitHub's government team.</p>
-    <p><a href="https://government-community.githubapp.com/">Post a question</a> in the government community to get feedback from other GitHub users in government.</p>
+<section id="contact-a-human" class="smallrow">
+  <div class="col">
+    <p>
+      <img height="250" width="255" src="assets/img/ben.jpg" class="img-border"/>
+    </p>
+  </div>
+  <div class="col container-lg p-responsive py-5 py-md-6 text-center">
+    <h3 class="alt-lead text-gray text-center col-md-10 mx-auto">{% octicon person height:42 class:"fill-green d-inline mr-2" aria-label:person %} Reach out !</h3>
+    <p class="titlepadding">You can find me on <a href="https://www.linkedin.com/in/benjamin-bullough-9b8b39107/">LinkedIn.</a></p>
   </div>
 </section>

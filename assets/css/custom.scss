@@ -109,6 +109,49 @@ a:hover{
   max-width: 100%;
 }
 
+.project-border {
+  border: 2px solid $white;
+  max-width: 100%;
+}
+
+.project-border:hover {
+  border: 2px solid $lime;
+  max-width: 100%;
+}
+
+.row {
+  display: flex; /* equal height of the children */
+}
+
+.smallrow {
+  display: flex; /* equal height of the children */
+  max-width: 80%;
+  padding-left: 400px;
+}
+
+.smalltext:hover{
+    color: $lime;
+}
+
+.col {
+  flex: 1; /* additionally, equal width */
+  
+  padding: 1em;
+}
+
+#my-div {
+  background-color: #f00;
+  width: 200px;
+  height: 200px;
+}
+
+.fill-div {
+  display: block;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+}
+
 #filter {
   border-radius: 0;
   border: none;
