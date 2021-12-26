@@ -1,5 +1,8 @@
 // $blue: #2D86FB;
 
+$lime: #a9d347;
+
+
 body {
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 16px;
@@ -20,6 +23,39 @@ body {
   background-size: 100%;
 }
 
+.btn {
+  color: $gray;
+  background-color: $white;
+}
+.btn:hover{
+  color: $white;
+  background-color: $gray;
+  border-color: $lime;
+}
+
+.btn-outline {
+  color: $gray;
+  background-color: $white;
+}
+.btn-outline:hover{
+  border-color: $lime;
+  color: $lime;
+  
+    -webkit-text-fill-color: transparent;
+    background: $lime;
+    background-color: $lime;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+a,
+a:link{
+  color: $gray;
+}
+a:hover{
+  color: $lime;
+}
+
 .picturemidway {
   width: 100%;
   content: url('../img/forest.jpg');
@@ -32,12 +68,31 @@ body {
   background-size: 100%;
 }
 
+.titlepadding {
+  padding: 60px;
+}
+
 .myboldclass {
+  font-weight: 300;
+}
+
+.mylightclass {
   font-weight: 200;
 }
 
-.myblackcolour{
-  color:rgb(0, 0, 0);
+.shiny-text {
+  // font-family:'Cambo','Times New Roman', Times, serif;
+  color:#b1ff83a4;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent),
+  url('../img/green.jpg') repeat;
+  background: -o-linear-gradient(transparent, transparent);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.extraroomabove{
+  padding: 20px;
 }
 
 .logo {
@@ -45,7 +100,7 @@ body {
 }
 
 .fill-blue { fill: $blue; }
-.fill-green { fill: $green; }
+.fill-green { fill: $lime; }
 .fill-gray { fill: $gray; }
 .fill-gray-light { fill: $gray-light; }
 

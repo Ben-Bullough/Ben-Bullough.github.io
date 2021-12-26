@@ -1,8 +1,8 @@
 # global settings
-title: "GitHub and Government"
-description: "GitHub helps government build software better, together"
+title: "Personal Website"
+description: "A portfolio for my interests and endeavours, because showing your work encourages more rigour."
 permalink: "/stories/:title"
-url: https://government.github.com
+url: https://Ben-Bullough.github.io
 relative_permalinks: false
 
 # build settings
