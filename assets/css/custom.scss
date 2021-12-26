@@ -14,10 +14,30 @@ body {
   -moz-transition: background-image 0.6s ease-in-out 0s;
   -o-transition: background-image 0.6s ease-in-out 0s;
   transition: background-image 0.6s ease-in-out 0s;
-  background-image: url('../img/fractal.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url('../img/lake.jpg');
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover;
+  background-size: 100%;
+}
+
+.picturemidway {
+  width: 100%;
+  content: url('../img/forest.jpg');
+}
+
+.gradient-text {
+  padding: 100px;
+  background-color: #f3ec78;
+  background: rgba(255, 255, 255, 0.6);
+  background-size: 100%;
+}
+
+.myboldclass {
+  font-weight: 200;
+}
+
+.myblackcolour{
+  color:rgb(0, 0, 0);
 }
 
 .logo {
