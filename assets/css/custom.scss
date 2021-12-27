@@ -124,9 +124,9 @@ a:hover{
 }
 
 .smallrow {
+  margin: auto;
   display: flex; /* equal height of the children */
-  max-width: 80%;
-  padding-left: 400px;
+  max-width: 50%;
 }
 
 .smalltext:hover{
