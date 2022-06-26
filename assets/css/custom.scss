@@ -26,7 +26,7 @@ body {
   -moz-transition: background-image 0.6s ease-in-out 0s;
   -o-transition: background-image 0.6s ease-in-out 0s;
   transition: background-image 0.6s ease-in-out 0s;
-  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url('../img/pisang.jpeg');
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.4)), url('../img/whw.jpeg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100%;
@@ -100,6 +100,10 @@ a:hover{
   background: -o-linear-gradient(transparent, transparent);
   background-clip: text;
   -webkit-background-clip: text;
+}
+
+.green-text {
+  color:#d0ffb5;
 }
 
 .extraroomabove{
