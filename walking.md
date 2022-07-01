@@ -8,48 +8,11 @@ filename: walking.md
 <section class="" id="AboutMe">
   <div class="container-lg p-responsive py-5 py-md-6 ">
     <h1 style="text-align:center;" class="less-shiny-text myboldclass alt-h1 mb-2">Walking</h1>
-    <p class="text-gray text-center">
+    <p style="text-align:justify; text-justify: inter-word;" class="text-gray">
     Over the course of four years as a quantitative analyst - <em>quant</em> for short - I have worked on structured rate derivatives, inflation options, equity hybrids and commodity modeling for two British investment banks.
     As an example, I have worked on the LIBOR transition, addressing the modelling implications for interest rate options of an industry shift from LIBOR term rates to compounded overnight Risk-Free Reference (RFR) rates.
     There are many fascinating problems to solve and tools to develop in financial mathematics, using stochastic calculus and a variety numerical methods.
     </p>
-  </div>
-</section>
-
-
-<section class="container-lg p-responsive py-5 py-md-6 my-lg-6">
-  <div class="clearfix gutter-spacious">
-    <div class="mb-3 mb-md-5 col-md-6 float-left">
-      <h2 class="alt-h3 mb-2">
-        {% octicon telescope height:28 class:"fill-green d-inline mr-2" aria-label:book %}
-        Walking
-      </h2>
-      <p style="text-align:justify; text-justify: inter-word;" class="text-gray">Began with treks and hikes in Scotland, England, France and a trip to Nepal in 2022. The current plan is to walk most of the length of the Himalayas between 2023 and 2024, from Bhutan to Pakistan, making my way through India, Nepal and Kashmir along the way. A fantastic excuse to try my hand at some travel writing and document the journey.</p>
-    </div>
-    <div class="mb-3 mb-md-5 col-md-6 float-left">
-      <h2 class="alt-h3 mb-2">
-        {% octicon book height:28 class:"fill-green d-inline mr-2" aria-label:graph %}
-        Mathematics
-      </h2>
-      <p style="text-align:justify; text-justify: inter-word;" class="text-gray"> A first love of algebra, number theory and probability theory. Over four years between 2015 and 2019, I studied for a BSc in Mathematics and Economics from the LSE, followed by an MSc in Pure Mathematics from Imperial College London, including a thesis on quadratic forms and Pfister's Local-Global principle.</p>
-    </div>
-  </div>
-
-  <div class="clearfix gutter-spacious">
-    <div class="mb-3 mb-md-5 col-md-6 float-left">
-      <h2 class="alt-h3 mb-2">
-        {% octicon graph height:28 class:"fill-green d-inline mr-2" aria-label:squirrel %}
-        Quantitative Finance
-      </h2>
-      <p style="text-align:justify; text-justify: inter-word;" class="text-gray">Probability theory and stochastic calculus to model the diffusion of underlying asset prices, and accurately price and risk-manage a wide variety of financial derivatives. Four years of experience as a sell-side quant from 2019 to 2023, working on rates, inflation, equity and commodity derivatives.</p>
-    </div>
-    <div class="mb-3 mb-md-5 col-md-6 float-left">
-      <h2 class="alt-h3 mb-2">
-        {% octicon gift height:28 class:"fill-green d-inline mr-2" aria-label:telescope %}
-        Donate
-      </h2>
-      <p style="text-align:justify; text-justify: inter-word;" class="text-gray">I would be incredibly grateful if you chose to sponsor my three to six month walk through Nepal, with donations going to Great Ormond Street Hospital. The Great Himalayan Trail totals 1700km, starting near Kachenjunga Base Camp in the East, and ending in Hilsa on the Tibetan border in the West.</p>
-    </div>
   </div>
 </section>
 
