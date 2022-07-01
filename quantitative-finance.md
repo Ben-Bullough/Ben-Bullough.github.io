@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: "Quantitative Finance"
+title: "BMB - Quant Finance"
 permalink: /quantitative-finance/
 filename: quantitative-finance.md
 --- 

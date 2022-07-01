@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: "Mathematics"
+title: "BMB - Mathematics"
 permalink: /mathematics/
 filename: mathematics.md
 --- 

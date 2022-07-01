@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: "Donate"
+title: "BMB - Donate"
 permalink: /donate/
 filename: donate.md
 --- 

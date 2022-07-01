@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: "Walking"
+title: "BMB - Walking"
 permalink: /walking/
 filename: walking.md
 ---
