@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Mathematics"
-permalink: /mathematics/
-filename: mathematics.md
+title: "Quantitative Finance"
+permalink: /quantitative-finance/
+filename: quantitative-finance.md
 --- 
 
 <!DOCTYPE html>
