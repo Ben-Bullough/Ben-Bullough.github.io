@@ -5,13 +5,14 @@ permalink: /walking/
 filename: walking.md
 ---
 
-<section class="" id="AboutMe">
+<section class="" id="">
   <div class="container-lg p-responsive py-5 py-md-6 ">
     <h1 style="text-align:center;" class="less-shiny-text myboldclass alt-h1 mb-2">Walking</h1>
     <p style="text-align:justify; text-justify: inter-word;" class="text-gray">
-    Over the course of four years as a quantitative analyst - <em>quant</em> for short - I have worked on structured rate derivatives, inflation options, equity hybrids and commodity modeling for two British investment banks.
-    As an example, I have worked on the LIBOR transition, addressing the modelling implications for interest rate options of an industry shift from LIBOR term rates to compounded overnight Risk-Free Reference (RFR) rates.
-    There are many fascinating problems to solve and tools to develop in financial mathematics, using stochastic calculus and a variety numerical methods.
+      I am set to return to Nepal to spend three weeks in the Annapurna region. One year ago I found myself in bewildered awe at the country's landscapes and breathtaking views, the unfailingly warm welcome one gets everywhere one goes, and the positive non-chalance of the Nepalis, and therefore hastily made plans to return the following year. This time I hope to complete a self-designed eighteen day circuit that includes Mardi Himal, Annapurna Base Camp, and Poon Hill.
+    </p>
+    <p style="text-align:justify; text-justify: inter-word;" class="text-gray">
+      At its best, walking grants access to spots of unique beauty while simultaneously drawing us back into the uninhabited spaces that lie in between. There is something for everbody, whether that is an accessible form of exercise, a deliberate act of delayed gratification, a chance for extended self-reflexion and quiet contemplation, or an opportunity to share long and invariably deep conversations with fellow walkers. I hope this webpage and the articles below can become an ode to walking for walking's sake, and a thinly veiled attempt to encourage interested readers to embark on their own strolls, pilgrimages or expeditions.
     </p>
   </div>
 </section>
@@ -19,10 +20,19 @@ filename: walking.md
 <div class="picturemidwaywalking pt-4 pb-5">
 </div>
 
+<section class="" id="">
+  <div class="container-lg p-responsive py-5 py-md-6 ">
+    <p style="text-align:justify; text-justify: inter-word;" class="text-gray">
+      The Great Himalaya Trail is a network of trails that span the entire length of Nepal, and consequently much of the Himalayas. 
+      (Elaborate on your plan to walk the length of Nepal over six months, between September 2023 and June 2024.)
+    </p>
+  </div>
+</section>
+
 <section class="bg-gray-light" id="Articles">
 <h2 class="alt-h2 text-center mb-3 py-3 mt-lg-6" id="more-than-just-code">Articles</h2>
   <div class="container-lg p-responsive py-4 py-md-0">
-    <p class="alt-lead text-gray text-center col-md-10 mx-auto">A snapshot of my most recent pieces of writing. The rest can be found <a href="https://Ben-Bullough.github.io">here</a>!</p>
+    <p class="alt-lead text-gray text-center col-md-10 mx-auto"> Below can be found a series of articles, diaries and guides; some about trekking in Nepal, others focused on adventures closer to home.</p>
     <div class="my-4 my-lg-6 clearfix gutter-spacious">
       <!-- Here is where you can put your three latest articles, and shift the previews cyclicly as soon as you write a new one. -->
       <div class="col-md-4 float-left project-border">
