@@ -9,10 +9,10 @@ filename: walking.md
   <div class="container-lg p-responsive py-5 py-md-6 ">
     <h1 style="text-align:center;" class="less-shiny-text myboldclass alt-h1 mb-2">Walking</h1>
     <p style="text-align:justify; text-justify: inter-word;" class="text-gray">
-      I am set to return to Nepal to spend three weeks in the Annapurna region. One year ago I found myself in bewildered awe at the country's landscapes and breathtaking views, the unfailingly warm welcome one gets everywhere one goes, and the positive non-chalance of the Nepalis, and therefore hastily made plans to return the following year. This time I hope to complete a self-designed eighteen day circuit that includes Mardi Himal, Annapurna Base Camp, and Poon Hill.
+      I having recently returned from Nepal, where I spent three weeks walking in the Annapurna region. Once more, I stand in bewildered awe before the country's landscapes and breathtaking views, the unfailingly warm welcome one gets everywhere one goes, and the positive non-chalance of the Nepalis. I was fortunate enough to complete a self-designed eighteen day circuit that included Mardi Himal, Annapurna Base Camp, and Poon Hill, the details of which can be found an article post below.
     </p>
     <p style="text-align:justify; text-justify: inter-word;" class="text-gray">
-      At its best, walking grants access to spots of unique beauty while simultaneously drawing us back into the uninhabited spaces that lie in between. There is something for everbody, whether that is an accessible form of exercise, a deliberate act of delayed gratification, a chance for extended self-reflexion and quiet contemplation, or an opportunity to share long and invariably deep conversations with fellow walkers. I hope this webpage and the articles below can become an ode to walking for walking's sake, and a thinly veiled attempt to encourage interested readers to embark on their own strolls, pilgrimages or expeditions.
+      Walking draws us into the uninhabited spaces that lie in between our dwellings and settlements, offering up views of unique beauty and increasingly elusive moments of quiet contemplation and escapism. I hope this webpage and the articles below can become an ode to walking for walking's sake, a thinly veiled attempt to encourage interested readers to embark on their own strolls, pilgrimages or expeditions.
     </p>
   </div>
 </section>
@@ -23,8 +23,14 @@ filename: walking.md
 <section class="" id="">
   <div class="container-lg p-responsive py-5 py-md-6 ">
     <p style="text-align:justify; text-justify: inter-word;" class="text-gray">
-      The Great Himalaya Trail is a network of trails that span the entire length of Nepal, and consequently much of the Himalayas. 
-      (Elaborate on your plan to walk the length of Nepal over six months, between September 2023 and June 2024.)
+      The Great Himalaya Trail is a network of trails that span the entire length of Nepal, and consequently much of the Himalayas. Its western end lies at the border with Tibet, in a village named Hilsa, a starting point for pilgrimmages to a Tibetan peak, Mount Kailash (6,714m) proclaimed by Hindus to be the abode of Shiva. Its eastern extremity lies at the foot of Kanchenjunga (8,586m), one of Nepal's eight eight-thousand metre peaks, on Nepal's border with a state of north-eastern India called Sikkim.
+    </p>
+    <p style="text-align:justify; text-justify: inter-word;" class="text-gray">
+      Over the course of six months, between August 2022 and February 2023, I will endeavour to walk the length of Nepal along this grandiose 1,700km trail. 
+
+      https://www.lizzyhawker.com/2017-story/
+
+      Lizzy Hawker, 2017 reasonably high runners route accross Nepal.
     </p>
   </div>
 </section>
