@@ -67,7 +67,12 @@ a:hover{
 
 .picturemidway {
   width: 100%;
-  content: url('../img/icelake.jpeg');
+  content: url('../img/hongkong2.jpeg');
+}
+
+.picturemidwaywalking {
+  width: 100%;
+  content: url('../img/walking.jpeg');
 }
 
 .gradient-text {
@@ -101,6 +106,11 @@ a:hover{
   background: -o-linear-gradient(transparent, transparent);
   background-clip: text;
   -webkit-background-clip: text;
+}
+
+.less-shiny-text {
+  color:#1b4900;
+  padding: 15px;
 }
 
 .green-text {
